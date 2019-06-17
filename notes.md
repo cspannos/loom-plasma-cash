@@ -5,12 +5,22 @@
 - what does it add to plasma?
 - how is it different
 	- merkle vs sparse merkle trees
-		- tradeoffs 
+		- exclusion proofs
+		- three types of challenges
+		- existing a coin
+		- double spending
+
 - Loom Plasma Cash demo Flow
+- Tradeoffs
 - Where is it live? What is it doing?
 
+# Future work
+- atomic transactions
+- payment channels
+- defragmentation (change)
+- state channels + plasma?
 
-# Notes: 
+# Notes:
 
 "We at Loom are using Truffle to build, test, and deploy our smart contracts. To make our life easier, we developed something called a provider that lets Truffle deploy to Loom PlasmaChain just like it deploys to Ethereum.
 
@@ -19,6 +29,3 @@ Source: https://loomx.io/developers/en/intro-to-loom.html#deploying-your-first-a
 
 Interact with Loom DappChain? Is this relevent for Plasma Cash?
 Link: https://github.com/loomnetwork/loom-truffle-provider
-
-
-
