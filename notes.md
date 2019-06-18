@@ -1,24 +1,23 @@
-# Sketch
+# Outline
 
--Loom Network implementation (ERC721/ERC20/ETH Supported)
-- what is plasma cash?
-- what does it add to plasma?
-- how is it different
-	- merkle vs sparse merkle trees
-		- exclusion proofs
-		- three types of challenges
-		- existing a coin
-		- double spending
+- Introduce Loom Network's implementation of Plasma Cash (ERC721/ERC20/ETH compatible, etc.);
 
-- Loom Plasma Cash demo Flow
-- Tradeoffs
-- Where is it live? What is it doing?
+- Review how Sparse Merkle Trees improve the Plasma specification;
 
-# Future work
-- atomic transactions
-- payment channels
-- defragmentation (change)
-- state channels + plasma?
+- Overview the flow:
+	- exclusion proofs;
+	- exits;
+	- challenges;
+
+- Provide overview of how to install Loom's Plasma-CLI;
+
+- Show how to use Plasma-CLI to deposit, transfer, withdraw, and exist coins;
+
+- Review differences/trade offs between Loom's Plasma Cash and other implementations by OmiseGo and Plasma Group;
+
+- Where is Plasma Cash live? What is it doing in the wild? Plasma Cash on Loom's dAppchain;
+
+
 
 # Notes:
 
@@ -29,3 +28,9 @@ Source: https://loomx.io/developers/en/intro-to-loom.html#deploying-your-first-a
 
 Interact with Loom DappChain? Is this relevent for Plasma Cash?
 Link: https://github.com/loomnetwork/loom-truffle-provider
+
+- Future work
+	- atomic transactions
+	- payment channels
+	- defragmentation (change)
+	- state channels + plasma?
