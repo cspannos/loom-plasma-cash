@@ -11,7 +11,7 @@
 
 - Provide overview of how to install Loom's Plasma-CLI;
 
-- Show how to use Plasma-CLI to deposit, transfer, withdraw, and exist coins;
+- Show how to use Plasma-CLI to deposit, transfer, withdraw, and exit coins;
 
 - Review differences/trade offs between Loom's Plasma Cash and other implementations by OmiseGo and Plasma Group;
 
