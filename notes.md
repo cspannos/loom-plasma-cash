@@ -34,3 +34,13 @@ Link: https://github.com/loomnetwork/loom-truffle-provider
 	- payment channels
 	- defragmentation (change)
 	- state channels + plasma?
+
+# Links to consider for addition
+
+https://www.youtube.com/watch?v=e1dJTfDnPPE&t=163s
+
+https://loomx.io/developers/docs/en/transfer-gateway.html
+
+https://loomx.io/developers/docs/en/extdev-transfer-gateway.html
+
+https://ethresear.ch/t/loom-network-plasma-cash-for-erc721-tokens/2385/1
