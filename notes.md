@@ -1,6 +1,8 @@
-# Outline
+# Outline: Work in Progress
 
-- Introduce Loom Network's implementation of Plasma Cash (ERC721/ERC20/ETH compatible, etc.);
+- Introduce Plasma and Plasma Cash
+
+- Loom Network's implementation of Plasma Cash (ERC721/ERC20/ETH compatible, etc.);
 
 - Review how Sparse Merkle Trees improve the Plasma specification;
 
@@ -9,13 +11,47 @@
 	- exits;
 	- challenges;
 
-- Provide overview of how to install Loom's Plasma-CLI;
+- Provide overview of using Loom's Transfer Gateway;
 
-- Show how to use Plasma-CLI to deposit, transfer, withdraw, and exit coins;
+- Show how to use deposit, transfer, withdraw, and exit coins;
 
 - Review differences/trade offs between Loom's Plasma Cash and other implementations by OmiseGo and Plasma Group;
 
 - Where is Plasma Cash live? What is it doing in the wild? Plasma Cash on Loom's dAppchain;
+
+
+# Draft
+
+Plasma is a layer two scaling technology that....
+
+Plasma Cash is a contsruction designed to overcome the problems with with Merkle Tree growth... It does so by using sparse Merkle trees. Sparse Merkle trees have the added benifit of...
+
+The Loom Network Plasma implementaion ....
+
+The flow of the Loom's implementation is... Ethereum chain, Oracle, Plasma chain
+
+In this design users can
+
+deposit, transfer, withdraw, and exit coins;
+
+Let's walk through these....
+
+These steps assume that you have:
+
+1)
+
+2)
+
+3)
+
+4)
+
+
+
+
+
+
+
 
 
 
