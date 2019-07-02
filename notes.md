@@ -1,4 +1,4 @@
-# Outline: Work in Progress
+# Outline/Draft: Work in Progress
 
 - Introduce Plasma and Plasma Cash
 
@@ -21,6 +21,12 @@
 
 
 # Draft
+
+As an Etherem second layer blockchain scaling solution, the promise of Plasma MVP lays in its potential to help boost transaction throughput per second, thus enabling mass adoptions of decentralized financial applications worldwide. Plasma Cash was designed to overcome problems with the MVP design; specificaly, the mass exit problem.
+
+The mass exit problem    
+
+
 
 Plasma is a layer two scaling technology that....
 
