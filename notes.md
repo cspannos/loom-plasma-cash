@@ -22,9 +22,9 @@
 
 # Draft
 
-As an Etherem second layer blockchain scaling solution, [the promise of Plasma MVP](https://kauri.io/article/3103de2a3a874f348013b96d157451be/v7/plasma-roundup:-from-mvp-to-mainnet) lays in its potential to help boost transaction throughput per second, thus enabling mass adoption of decentralized financial applications worldwide.
+As an Etherem second layer blockchain scaling solution, [the promise of Plasma](https://kauri.io/article/3103de2a3a874f348013b96d157451be/v7/plasma-roundup:-from-mvp-to-mainnet) lays in its potential to help boost transaction throughput per second, thus enabling mass adoption of decentralized financial applications worldwide.
 
-Plasma Cash, however, was designed to overcome obsitlces in the MVP design; specificaly, to solve the mass exit problem.
+Plasma has so far come in stages. While the [MVP specification](https://ethresear.ch/t/minimal-viable-plasma/426) was designed to offer simplicity and basic security properties to kickstart development, Plasma Cash was designed to solve the mass exit problem.
 
 The mass exit problem    
 
